@@ -1,0 +1,14 @@
+Sandbox_FR = {
+    Sandbox_StoryItemSpawner = "Item Stories",
+
+    Sandbox_StoryItemSpawnerChanceOnFloorMultiplier = "Multiplicateur de chance d'apparition au sol",
+    Sandbox_StoryItemSpawnerChanceOnFurnitureMultiplier = "Multiplicateur de chance d'apparition dans les meubles",
+
+    Sandbox_StoryItemSpawnerStartDay = "Jour d'apparition (début)",
+    Sandbox_StoryItemSpawnerPeakDay = "Jour d'apparition (culminant)",
+    Sandbox_StoryItemSpawnerChanceOnFloorMultiplierStartDay = "Multiplicateur de chance d'apparition au sol (au premier jour) ",
+    Sandbox_StoryItemSpawnerChanceOnFloorMultiplierPeakDay = "Multiplicateur de chance d'apparition au sol (au jour culminant) ",
+    Sandbox_StoryItemSpawnerChanceOnFurnitureMultiplierStartDay = "Multiplicateur de chance d'apparition dans les meubles (au premier jour) ",
+    Sandbox_StoryItemSpawnerChanceOnFurnitureMultiplierPeakDay = "Multiplicateur de chance d'apparition dans les meubles (au jour culminant) ",
+
+}
